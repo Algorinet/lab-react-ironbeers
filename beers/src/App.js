@@ -8,6 +8,7 @@ import RandomBeer from "./components/randomBeer";
 import NewBeer from "./components/newBeer";
 import { Switch, Route } from "react-router-dom";
 
+
 function App() {
   return (
     <div className="App">
